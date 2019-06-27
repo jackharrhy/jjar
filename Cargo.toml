@@ -5,6 +5,7 @@ authors = ["Jack Arthur Harrhy <me@jackharrhy.com>"]
 edition = "2018"
 
 keywords = [ "cli", "tool", "json" ]
+description = "pack up json in a jar"
 repository = "https://github.com/jackharrhy/jjar"
 
 readme = "README.md"

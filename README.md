@@ -3,7 +3,7 @@ jjar
 
 [![CircleCI](https://circleci.com/gh/jackharrhy/jjar.svg?style=svg)](https://circleci.com/gh/jackharrhy/jjar)
 
-packs up json in a jar
+pack up json in a jar ⚱️
 
 Install
 -------
