@@ -16,9 +16,8 @@ fn main() -> io::Result<()> {
     let mut out = Vec::new();
 
     for value in stream {
-        match value.ok() {
-            Some(value) => out.push(value),
-            None => (),
+        if let Ok(value) = value {
+            out.push(value);
         }
     }
 
